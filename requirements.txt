@@ -1,0 +1,4 @@
+shiny==1.9.0
+shinylive==0.8.13
+numpy
+matplotlib
